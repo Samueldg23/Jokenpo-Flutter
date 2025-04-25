@@ -72,6 +72,7 @@ class _HomePageState extends State<HomePage> {
                 botaoEscolha(Escolha.tesoura),
               ],
             ),
+            
             const SizedBox(height: 20),
             ElevatedButton(
               onPressed: jogar,
